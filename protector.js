@@ -1,1 +1,0 @@
-document.addEventListener("contextmenu",e=>e.preventDefault()),document.addEventListener("keydown",e=>{(123===e.keyCode||e.ctrlKey&&e.shiftKey&&73===e.keyCode||e.ctrlKey&&e.shiftKey&&74===e.keyCode||e.ctrlKey&&e.shiftKey&&67===e.keyCode||e.ctrlKey&&85===e.keyCode)&&e.preventDefault()});
